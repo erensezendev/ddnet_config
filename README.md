@@ -9,4 +9,5 @@
 - write exec start and enter
 - press F11 to see the keys
 
-![download](https://github.com/erensezendev/ddnet_config/archive/refs/heads/main.zip)
+[download](https://github.com/erensezendev/ddnet_config/archive/refs/heads/main.zip)
+
