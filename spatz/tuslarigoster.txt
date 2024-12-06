@@ -1,0 +1,6 @@
+echo |spatz|e = Kapat
+echo |spatz|2 = GoresMod
+echo |spatz|Mouse5 = DummyDeepFlyMod
+echo |spatz|Mouse4 = DummyFlyMod
+echo |spatz|9 = hard move
+echo |spatz|0 = smooth move
